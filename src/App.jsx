@@ -12,9 +12,9 @@ function App() {
 
   useEffect(() => {
     AOS.init({
-        once: true,
+        once: false,
         mirror: true,
-        duration: 3500,
+        duration: 1000,
         easing: 'ease-out-cubic',
     });
   });
