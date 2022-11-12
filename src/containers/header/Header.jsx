@@ -6,7 +6,7 @@ import './header.css';
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
-      <h1 className="gradient__text">Let&apos;s Build Something amazing with OpenAI</h1>
+      <h1 className="gradient__text">Let&apos;s Build Something Amazing With OpenAI</h1>
       <p>We have been founded by a team of leaders in energy technology and innovation.</p>
 
       <div className="gpt3__header-content__input">
